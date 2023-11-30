@@ -1,0 +1,288 @@
+*{
+
+	margin:0;
+	padding:0;
+	font-family: 'Glory', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+.first1
+{
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(stack.jpeg);
+	height:65vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	background-attachment: fixed;
+	/*parralax*/
+	}
+
+
+nav
+{
+	
+padding:1% 3%;
+align-items: center;
+justify-content: space-between;
+
+}
+.c-link
+{
+
+
+	text-align:center;
+}
+
+
+.c-link ul li
+{
+
+list-style: none;
+display:inline-block;
+
+
+}
+.c-link ul li a
+{
+
+	position: relative;
+	padding:8px 16px;
+    font-weight: bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    color:#B2D3DC;
+    text-shadow: 1px 2px white;
+    font-size:18px;
+   
+
+}
+
+.c-link ul li a:hover
+{
+	color:white;
+	font-size: 32px;
+	text-shadow:2px 2px  #B2D3DC;
+}
+.content1
+{
+	color:#B2D3DC;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	text-align:center;
+	
+}
+.content1 h1
+{
+	font-size:60px;
+	text-shadow:3px 3px white;
+}
+.col
+{
+	text-align:center;
+	padding-top:70px;
+	/*TO add space from top*/
+	padding-bottom: 70px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #B2D3DC;
+}
+.col p{
+	font-size:22px;
+}
+.col h1{
+font-size:35px;
+margin-bottom: 18px;
+}
+
+.pt{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/aa.jpg);
+	/*to make the bg dark*/
+	height:13vh;
+	width:100%;
+	background-position:right;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.ip01 ul li 
+{
+	
+    text-decoration:none;
+    color:#86AAA7;
+    text-shadow: 1px 1px #B2D3DC;
+    font-size:20px;
+    text-align:center;
+padding:6px 30px;
+list-style-type:circle;
+margin-left: 30px;
+
+/*to add spacing between the elements*/
+   }
+   .pt0{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/sa.png);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt1{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/i.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt2{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/cc.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt3{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/m.png);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt4{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/u.png);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt5{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/a.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt6{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/ci.png);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt7{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/f.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt8{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/p.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.pt9{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/si.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	padding-top: 40px;
+	text-align:center;
+	}
+.pt10{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/nn.jpg);
+	/*to make the bg dark*/
+	height:12vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}
+.ctrl{
+	padding-top: 50px;
+}
+.btn ul li{
+	padding-top: 10px;
+	
+    text-decoration:none;
+    color:#86AAA7;
+    text-shadow: 1px 1px #B2D3DC;
+    text-shadow: 1px 1px #B2D3DC;
+    font-size:20px;
+    text-align:center;
+padding:20px 30px;
+list-style-type:circle;
+margin-left: 30px;
+
+/*to add spacing between the elements*/
+   }
+.ctrl{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/btn.jpg);
+	/*to make the bg dark*/
+	height:50vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	text-align:center;
+	padding-top: 40px;
+}

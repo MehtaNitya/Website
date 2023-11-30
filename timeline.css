@@ -1,0 +1,1349 @@
+*{
+
+	margin:0;
+	padding:0;
+	font-family: 'Glory', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+.first1
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	height:65vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	background-attachment: fixed;
+	
+	}
+
+
+nav
+{
+	
+padding:13px;
+
+
+}
+.c-link
+{
+
+
+	text-align:center;
+}
+
+
+.c-link ul li
+{
+
+list-style: none;
+display:inline-block;
+
+
+}
+.c-link ul li a
+{
+
+	position: relative;
+	padding:8px 16px;
+    font-weight: bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    color:white;
+    text-shadow: 1px 2px #DCAE96;
+    font-size:18px;
+   
+
+}
+
+.c-link ul li a:hover
+{
+	font-size: 25px;
+	color:#DCAE96;
+	text-shadow: 2px 2px white;
+}
+.content1
+{
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	text-align:center;
+	
+}
+.content1 h1
+{
+	font-size:60px;
+	text-shadow:3px 4px #DCAE96;
+}
+.content1 p
+{
+margin-top: 10px;
+margin-bottom:50px;
+font-size:25px;
+padding-top: 20px;
+color: #DCAE96;
+text-shadow: 2px 1px white;
+}
+/*Introduction*/
+.intro
+{
+	text-align:center;
+	padding-top:90px;
+	/*TO add space from top*/
+	padding-bottom: 90px;
+	background-color: #D8BFD8;
+}
+.intro h2{
+	font-size:40px;
+}
+.intro p{
+
+	font-size:18px;
+	color:black;
+	padding: 12px;
+	padding-top:25px;
+}
+.iphone01
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone01 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image01
+{
+	float:right;
+	padding-top:90px;
+	padding-bottom:110px;
+	margin-right: 5px;	
+
+}
+.image01 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+	height:300px;
+width:400px;
+
+
+
+}
+.image01 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip01 
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+
+background-color: #D8BFD8;
+
+
+}
+.ip01 h3
+{
+ text-align: center;
+}
+.ip01 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+padding:4px 30px;
+list-style-type:circle;
+margin-left: 30px;
+/*to add spacing between the elements*/
+
+
+   
+}
+/*IPhone 3g*/
+.iphone02
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone02 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image02
+{
+	float:left;
+	margin-top:100px;
+	margin-left: 5px;
+	margin-right:100px;
+
+}
+
+.image02 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+
+}
+.image02 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+.ip02
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+background-color: #D8BFD8;
+
+}
+
+.ip02 h3
+{
+	text-align: center;
+}
+.ip02 ul li 
+{
+	
+   text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+padding:4px 30px;
+list-style-type:circle;
+/*to add spacing between the elements*/
+
+
+}
+/*iphone 3gs*/
+.iphone03
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone03 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image03
+{
+	float:right;	
+
+}
+.image03 img
+{
+	
+	margin-top:110px;
+	margin-right: 5px;
+}
+.image03 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+
+}
+.image03 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip03
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+
+}
+.ip03 h3
+{
+text-align: center;
+}
+
+.ip03 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+     list-style-type:circle;
+margin-left: 30px;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 4*/
+.iphone04
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone04 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image04
+{
+	float:left;
+	
+
+}
+.image04 img
+{
+	
+	margin-top:110px;
+	margin-right:100px;	
+	margin-left: 5px;
+}
+.image04 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+	height:300px;
+width:400px;
+}
+.image04 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+.ip04
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+background-color: #D8BFD8;
+
+}
+.ip04 h3
+{
+text-align: center;
+}
+
+.ip04 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 4s*/
+.iphone05
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone05 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+    color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image05
+{
+	float:right;	
+
+}
+.image05 img
+{
+	
+	
+	margin-top:120px;
+	margin-right: 5px;
+}
+.image05 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+	height:300px;
+width:400px;
+
+
+
+}
+.image05 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip05
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+}
+.ip05 h3
+{
+text-align: center;
+}
+
+.ip05 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+margin-left: 30px;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 5*/
+.iphone06
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone06 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image06
+{
+	float:left;	
+
+}
+.image06 img
+{
+	
+		
+	margin-top:120px;
+	margin-left: 5px;
+margin-right:100px;	
+}
+.image06 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+}
+.image06 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip06
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+background-color: #D8BFD8;
+
+}
+.ip06 h3
+{
+text-align: center;
+}
+
+.ip06 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 5Sand 5C*/
+.iphone07
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone07 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image07
+{
+	float:right;	
+
+}
+.image07 img
+{
+	
+	margin-top:120px;
+	margin-right: 5px;
+}
+.image07 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+	height:300px;
+width:400px;
+
+
+}
+.image07 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip07
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+
+}
+.ip07 h3
+{
+text-align: center;
+}
+
+.ip07 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+margin-left: 30px;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 6 and 6+*/
+.iphone08
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone08 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image08
+{
+	float:left;	
+}
+.image08 img
+{
+	
+	margin-right: 100px;
+	margin-top:100px;
+	margin-left: 5px;
+}
+.image08 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+		height:300px;
+width:400px;
+
+
+}
+.image08 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip08
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+background-color: #D8BFD8;
+
+}
+.ip08 h3
+{
+text-align: center;
+}
+
+.ip08 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone 6s and 6s+*/
+.iphone09
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone09 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+    color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image09
+{
+	float:right;	
+
+}
+.image09 img
+{
+	
+
+	margin-top:120px;
+	margin-right: 5px;
+}
+.image09 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+		height:300px;
+width:400px;
+
+
+}
+.image09 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip09
+{
+
+padding-top:120px;
+	padding-bottom:120px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+}
+.ip09 h3
+{
+text-align: center;
+}
+
+.ip09 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+margin-left: 30px;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone SE ,7 AND 7+*/
+.iphone10
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone10 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image10
+{
+	float:left;	
+
+}
+.image10 img
+{
+	
+
+	margin-top:118px;
+	margin-right: 100px;
+margin-left: 5px;
+}
+.image10 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+		height:300px;
+width:400px;
+
+}
+.image10 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+.ip10
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+background-color: #D8BFD8;
+
+}
+.ip10 h3
+{
+text-align: center;
+}
+
+.ip10 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+padding:3px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone X,8,8+*/
+.iphone11
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone11 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+    color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image11
+{
+	float:right;	
+
+}
+.image11 img
+{
+	
+	margin-top:140px;
+	margin-right: 5px;
+}
+.image11 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+
+		height:300px;
+width:400px;
+}
+.image11 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip11
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+}
+.ip11 h3
+{
+text-align: center;
+}
+
+.ip11 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+margin-left: 30px;
+padding:4px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+
+/*iphone XS, XS Max, XR */
+.iphone12
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone12 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+    color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image12
+{
+	float:left;	
+
+}
+.image12 img
+{
+	
+		
+	margin-top:138px;
+	margin-right:100px;
+margin-left: 5px;
+}
+.image12 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+			height:300px;
+width:400px;
+
+
+}
+.image12 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+
+.ip12
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+background-color: #D8BFD8;
+
+}
+.ip12 h3
+{
+text-align: center;
+}
+
+.ip12 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+list-style-type:circle;
+padding:3px 30px;
+/*to add spacing between the elements*/
+
+   
+}
+/*iphone iPhone 11 / 11 Pro / 11 Pro Max*/
+.iphone13
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone13 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image13
+{
+	float:right;	
+
+}
+.image13 img
+{
+	
+		
+	margin-top:130px;
+	margin-right: 5px;
+}
+.image13 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+}
+.image13 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+.ip13
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+}
+.ip13 h3
+{
+text-align: center;
+}
+
+.ip13 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+
+padding:4px 30px;
+/*to add spacing between the elements*/
+list-style-type:circle;
+margin-left: 30px;
+   
+}
+/*IPhone 12's*/
+.iphone14
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone14 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image14
+{
+	float:left;
+	margin-top:120px;
+	margin-left: 5px;
+	margin-right:100px;
+
+}
+
+.image14 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+
+}
+.image14 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+.ip14
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+background-color: #D8BFD8;
+
+}
+
+.ip14 h3
+{
+	text-align: center;
+}
+.ip14 ul li 
+{
+	
+   text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+padding:3px 30px;
+list-style-type:circle;
+/*to add spacing between the elements*/
+
+
+}
+
+.iphone15
+{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/evoo.jpg);
+	/*to make the bg dark*/
+	height:30vh;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	text-align:center;
+	background-attachment: fixed;
+	padding-top: 100px;
+}
+.iphone15 h3
+{
+
+	font-size:40px;
+    font-weight: bolder;
+     color:white;
+    text-shadow: 1px 2px #DCAE96;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+    /*So that it will be in center */
+	
+}
+.image15
+{
+	float:right;	
+
+}
+.image15 img
+{
+	
+		
+	margin-top:130px;
+	margin-right: 5px;
+}
+.image15 img
+{
+	border:1px solid grey;
+	border-radius: 2px;
+	padding:5px;
+height:300px;
+width:400px;
+
+}
+.image15 img:hover
+{
+	box-shadow: 2px 4px grey;
+}
+
+.ip15
+{
+
+padding-top:100px;
+	padding-bottom:100px;
+list-style-type:circle;
+background-color: #D8BFD8;
+
+}
+.ip15 h3
+{
+text-align: center;
+}
+
+.ip15 ul li 
+{
+	
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    text-align: left;
+
+padding:4px 30px;
+/*to add spacing between the elements*/
+list-style-type:circle;
+margin-left: 30px;
+   
+}
